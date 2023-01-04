@@ -2,7 +2,7 @@
 
 JS is stupid, is a little fun program that turns JS-code in to unreadable JS code by only using `()[]{}=>+!/\`. 
 
-It was inspired by some YouTuber, but I didn't remember who it was. So shout out to him who made the code!
+It was inspired by [Low Byte Productions](https://www.youtube.com/@LowByteProductions). Here is the [video](https://www.youtube.com/watch?v=sRWE5tnaxlI).
 
 ## Usage
 
