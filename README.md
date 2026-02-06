@@ -11,3 +11,6 @@ Also see [JS Fuck](http://www.jsfuck.com/) for an online version.
 - Paste your JS-code into the `input.js` file.
 - Run the `index.js` file.
 - Copy your code from the `output.js` file.
+
+---
+Built with ❤️ by [Oliver Seifert](https://oseifert.ch)
